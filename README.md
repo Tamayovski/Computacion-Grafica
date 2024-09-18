@@ -1,4 +1,11 @@
 # Computacion-Grafica
+Ejercicio 3
+
+Erosion:
+
+https://github.com/user-attachments/assets/a99fa941-c7a4-4eff-b304-2582601dbc59
+
+
 
 Ejercicio 2
 
