@@ -5,6 +5,7 @@ Erosion:
 
 https://github.com/user-attachments/assets/a99fa941-c7a4-4eff-b304-2582601dbc59
 
+![image](https://github.com/user-attachments/assets/5bf7c127-c86f-4590-99d4-ae285cea8ebe)
 
 
 Ejercicio 2
