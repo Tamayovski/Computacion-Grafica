@@ -1,4 +1,20 @@
 # Computacion-Grafica
+
+Ejercicio 4
+
+Perspectiva 1:
+
+
+https://github.com/user-attachments/assets/b857d397-814b-4147-a5ba-fe85de7e76ad
+
+Perspectiva 2:
+
+
+
+https://github.com/user-attachments/assets/ef537968-8ab6-4b25-b736-3bfc0404146c
+
+
+
 Ejercicio 3
 
 Erosion:
