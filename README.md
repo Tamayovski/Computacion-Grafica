@@ -13,6 +13,7 @@ Perspectiva 2:
 
 https://github.com/user-attachments/assets/ef537968-8ab6-4b25-b736-3bfc0404146c
 
+![image](https://github.com/user-attachments/assets/bc6c210b-24ec-47d8-8d92-010688930a19)
 
 
 Ejercicio 3
