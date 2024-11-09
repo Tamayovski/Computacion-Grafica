@@ -3,7 +3,7 @@
 TRABAJO FINAL
 
 
-LINK PARA EL WEBGL.(No se pudo)
+LINK PARA EL WEBGL.(No se pudo)https://play.unity.com/en/games/47713875-d2e2-49e4-84c7-8389aa1aa550/final-ga-juan-jose-tamayo
 
 Video demostracion, shaders muy pesados para webgl :C
 
