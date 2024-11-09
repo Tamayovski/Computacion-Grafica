@@ -3,11 +3,16 @@
 TRABAJO FINAL
 
 
-LINK PARA EL WEBGL.
+LINK PARA EL WEBGL.(No se pudo)
+
+Video demostracion, shaders muy pesados para webgl :C
+
+https://github.com/user-attachments/assets/cf6817ec-4fdc-4c53-82d2-c0a736f09761
 
 
 SKETCHES
 
+![Concept](https://github.com/user-attachments/assets/1b1a1c5f-d1b6-44e8-afcc-5d74d30d5153)
 
 
 Ejercicio 4
